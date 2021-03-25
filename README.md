@@ -15,8 +15,8 @@ OpenCV (Open Source Computer Vision Library: http://opencv.org) is an open-sourc
 several hundreds of computer vision algorithms. It is a cross platform library and in this program it is used in Python.
 
 Haar Cascade Classifiers : We will implement our use case using the Haar Cascade classifier. Haar Cascade classifier 
-is an effective object detection approach which was proposed by Paul Viola and Michael Jones in their paper, ìRapid 
-Object Detection using a Boosted Cascade of Simple Featuresî in 2001.
+is an effective object detection approach which was proposed by Paul Viola and Michael Jones in their paper, ‚ÄúRapid 
+Object Detection using a Boosted Cascade of Simple Features‚Äù in 2001.
 
 ## Installation and Operating Instructions
 
